@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website has been created to host posts from the old Trumpet Planet blog, written by Rich Colquhoun since 2014.
+As the site is no-longer being updated with regular posts I took it down for a while. However I felt that since it had a lot of traffic and I'd put a lot of time into writing these posts it would be a shme for them to be gone from the internet. Thanks for visiting and feel free to get in touch if you wish to discuss any of the content.
+Rich Colquhoun's current website can be found at https://neotericbrass.com/ 🎺🪐
